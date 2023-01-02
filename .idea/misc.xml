@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/drawable/ic_forevergems.xml" value="0.1" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/font/amethysta.xml" value="0.2171875" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/font/belgrano.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_bracelet.xml" value="0.17831813576494426" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_bracelet2.xml" value="0.21" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_bracelet3.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_earrings.xml" value="0.17831813576494426" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_earrings2.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_earrings3.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_main.xml" value="0.34692028985507245" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_necklace2.xml" value="0.33" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_necklace3.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_rings.xml" value="0.17831813576494426" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_rings2.xml" value="0.25" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_rings3.xml" value="0.21" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/activity_splash_screen.xml" value="0.14" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/csv.xml" value="0.21693840579710144" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/item.xml" value="0.34692028985507245" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/itemxml.xml" value="0.34692028985507245" />
+        <entry key="..\:/CASTROPATRICK/app/src/main/res/layout/necklace.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

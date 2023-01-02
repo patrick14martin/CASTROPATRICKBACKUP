@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.castropatrick">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/gem"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/gem"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CASTROPATRICK"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Earrings"
+            android:exported="false" />
+        <activity
+            android:name=".Rings"
+            android:exported="false" />
+        <activity
+            android:name=".bracelet"
+            android:exported="false" />
+        <activity
+            android:name=".Necklace"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bracelet2"
+            android:exported="false" />
+        <activity
+            android:name=".bracelet3"
+            android:exported="false" />
+        <activity
+            android:name=".Earrings2"
+            android:exported="false" />
+        <activity
+            android:name=".Earrings3"
+            android:exported="false" />
+        <activity
+            android:name=".Necklace2"
+            android:exported="false" />
+        <activity
+            android:name=".Necklace3"
+            android:exported="false" />
+        <activity
+            android:name=".Rings2"
+            android:exported="false" />
+        <activity
+            android:name=".Rings3"
+            android:exported="false" />
+        <activity
+            android:name=".reference"
+            android:exported="false" />
+
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

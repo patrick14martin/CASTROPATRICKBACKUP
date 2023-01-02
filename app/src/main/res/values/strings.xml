@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Forever Gems</string>
+    <string name="title">Forever Gems</string>
+    <string name="title_activity_earrings">Choose Base Earrings: </string>
+    <string name="title_activity_rings">Choose Base Ring: </string>
+    <string name="title_activity_bracelet">Choose Base Bracelet: </string>
+    <string name="ring">Rings</string>
+    <string name="bracelet">Bracelets</string>
+    <string name="necklace">Necklace</string>
+    <string name="earrings">Earrings</string>
+   <string name="title_bracelet2">14k Gold Bracelet</string>
+    <string name="title_activity_bracelet3">bracelet3</string>
+    <string name="title_activity_necklace">Choose Base Necklace: </string>
+    <string name="txt_compute_result">Total Payment: </string>
+    <string name="txt_demo">Close</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+
+</resources>
